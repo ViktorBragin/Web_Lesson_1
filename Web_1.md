@@ -18,10 +18,10 @@
 В самом низу - информация о копирайтах, конфидециальности, куки и прочих важных вещах.
 4. Изменения на сайте 
 ## До:
-![do pic](do.png)
+![do pic](do.PNG)
 
 ## После:
-![posle pic](posle.png)
+![posle pic](posle.PNG)
 
 ## Задание 8:
-![kvest8 pic](kvest8.png)
+![kvest8 pic](kvest8.PNG)
